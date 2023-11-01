@@ -1,13 +1,13 @@
 # Sociopedia
 
 ##Light Mode -
-![Alt text](https://prnt.sc/159EEPNYF10C "Dark Mode")
+![ScreenShot](https://prnt.sc/159EEPNYF10C )
 
 
 ##Dark Mode -
-![Alt text](https://prnt.sc/_eULnhr3EJHf "Dark Mode")
+![ScreenShot](https://prnt.sc/_eULnhr3EJHf )
 
 
 ##User Profile -
-![Alt text](https://prnt.sc/H2f97dxZ0Uwe "User profile")
+![ScreenShot](https://prnt.sc/H2f97dxZ0Uwe )
 
